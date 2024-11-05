@@ -68,5 +68,6 @@
 # Schema electrică în Wokwi
 > ![Schema electriă](Pictures/schema_electrica.png)
 # Funcționalitatea montajului fizic
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kHTQRHOxb44?si=BZyn3EtRFUndOtc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QHV0p64hw3Y?si=9anu9uBhd-WorNED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Funcționalitate 2](https://img.youtube.com/vi/kHTQRHOxb44/0.jpg)](https://www.youtube.com/watch?v=kHTQRHOxb44)
+[![Funcționalitate 1](https://img.youtube.com/vi/QHV0p64hw3Y/0.jpg)](https://www.youtube.com/watch?v=QHV0p64hw3Y)
