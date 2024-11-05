@@ -65,6 +65,9 @@
 > ![Poză 3](Pictures/Pic_1_Setup%20(3).jpeg)
 > ![Poză 4](Pictures/Pic_1_Setup%20(4).jpeg)
 
+# Schema electrică în Wokwi
+> ![Schema electriă](Pictures/schema_electrica.png)
+
 # Funcționalitatea montajului fizic
 ><video width="800" height="600" controls>
 >  <source src="Videos/Video 1 Tema 2 TypeRacer.mp4" type="video/mp4">
@@ -72,5 +75,3 @@
 ><video width="800" height="600" controls>
 >  <source src="Videos/Video 2 Tema 2 TypeRacer.mp4" type="video/mp4">
 ></video>
-# Schema electrică în Wokwi
-> ![Schema electriă](Pictures/schema_electrica.png)
