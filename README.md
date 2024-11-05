@@ -64,8 +64,9 @@
 > ![Poză 2](Pictures/Pic_1_Setup%20(2).jpeg)
 > ![Poză 3](Pictures/Pic_1_Setup%20(3).jpeg)
 > ![Poză 4](Pictures/Pic_1_Setup%20(4).jpeg)
-# Funcționalitatea montajului fizic
-<video src="Videos/Video 1 Tema 2 TypeRacer.mp4" width="320" height="240" controls></video>
-<video src="Videos/Video 2 Tema 2 TypeRacer.mp4" width="320" height="240" controls></video>
+>
 # Schema electrică în Wokwi
 > ![Schema electriă](Pictures/schema_electrica.png)
+# Funcționalitatea montajului fizic
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kHTQRHOxb44?si=BZyn3EtRFUndOtc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QHV0p64hw3Y?si=9anu9uBhd-WorNED" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
