@@ -69,9 +69,9 @@
 > ![Schema electriă](Pictures/schema_electrica.png)
 
 # Funcționalitatea montajului fizic
-><video width="800" height="600" controls>
+><video width="320" height="240" controls>
 >  <source src="Videos/Video 1 Tema 2 TypeRacer.mp4" type="video/mp4">
 ></video>
-><video width="800" height="600" controls>
+><video width="320" height="240" controls>
 >  <source src="Videos/Video 2 Tema 2 TypeRacer.mp4" type="video/mp4">
 ></video>
